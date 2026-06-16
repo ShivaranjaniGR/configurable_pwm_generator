@@ -8,7 +8,7 @@ project:
   clock_hz:     50000000       
 
   tiles: "1x1"          
-  top_module:  "pwm_generator"
+  top_module:  "tt_um_pwm_generator"
 
   source_files:
     - "pwm_generator.v"
